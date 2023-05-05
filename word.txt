@@ -1,0 +1,2 @@
+Hello World！
+It is the first day to try to use git.
